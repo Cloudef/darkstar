@@ -356,3 +356,4 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2015-04-21  8:46:23
+UPDATE zone_settings SET zoneip = '84.250.90.254';
